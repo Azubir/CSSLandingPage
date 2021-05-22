@@ -1,0 +1,54 @@
+.lol{
+  width: 500px;
+  font-size: 20px;
+  color: white;
+  text-align:  center;
+  margin:auto;
+}
+
+.is{
+  margin: auto;
+  display:   block;
+}
+
+input{
+  display: block;
+  margin: auto;
+  margin-bottom: 10px;
+  height: 30px;
+  width: 200px;
+}
+
+h1{
+  text-align: center;
+  color: white;
+}
+
+h2{
+  text-align: center;
+  color: white;
+}
+
+label{
+  display:  block;
+  text-align: center;
+  margin: auto;
+  color: white;
+}
+
+#d{
+  border-radius: 20px;
+  background-color: orange;
+  width: 130px;
+  height: 65px;
+  margin-top: 30px;
+}
+
+body{
+background-color: #05055e;
+margin: 0px;
+border-left: 80px solid #00a0a8;
+border-right: 80px solid #00a0a8;
+border-bottom: 80px solid #00a0a8;
+min-height: 90vh;
+}
